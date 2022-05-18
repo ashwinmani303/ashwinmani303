@@ -10,10 +10,11 @@
 
 - 📫 How to reach me **@gmail.com**
 
-- 📄 Know about my experiences <a href=''> link</a>
+- 📄 Know about my experiences <a href='https://www.linkedin.com/in/ashwinmani303/'> link</a>
 
 - ⚡ Fun fact **I think i am Funny**<br>
 
+<a href='https://www.linkedin.com/in/ashwinmani303/'>LinkedIn Profile</a>
 <!--
 **ashwinmani303/ashwinmani303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
