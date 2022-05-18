@@ -2,6 +2,18 @@
 <h3 align="center">A passionate Data science enthusiast from India</h3>
 
 
+- 🔭 I’m currently working on **Score Card generation** at Kotak Bank.
+
+- 🌱 I’m currently learning **Python, numpy, Bert, Deep learning**
+
+- 🌱 I’m currently learning **Greate Lake** 
+
+- 📫 How to reach me **@gmail.com**
+
+- 📄 Know about my experiences <a href=''> link</a>
+
+- ⚡ Fun fact **I think i am Funny**<br>
+
 <!--
 **ashwinmani303/ashwinmani303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
